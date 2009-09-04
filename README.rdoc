@@ -1,0 +1,5 @@
+= Uniquify
+
+Rails gem for generating a unique token in an Active Record model.
+
+....
